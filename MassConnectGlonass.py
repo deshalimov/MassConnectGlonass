@@ -7,7 +7,6 @@ import random
 
 environment = prod
 
-
 class MassConnect:
 
     def __init__(self, login: str, password: str):
